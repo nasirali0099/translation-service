@@ -1,16 +1,3 @@
-Here is your **clean, improved, and production-ready `README.md` with documentation links added** (copy–paste ready):
-
----
-
-````md
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" width="120" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/API-Translation%20Service-blue" alt="API"></a>
-<a href="#"><img src="https://img.shields.io/badge/Laravel-10-red" alt="Laravel"></a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-8.1+-purple" alt="PHP"></a>
-<a href="#"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
-</p>
 
 ## 📘 About Translation Service
 
@@ -242,14 +229,6 @@ $this->assertLessThan(500, $duration);
   * tags.name
   * translation_values.value
 
----
-
-## 📜 License
-
-MIT License
-
----
-
 ## 🎯 Summary
 
 This API is designed for:
@@ -259,16 +238,4 @@ This API is designed for:
 * High performance JSON export system
 * Clean architecture (SOLID principles)
 
-```
-
----
-
-If you want next upgrade, I can also help you with:
-
-✔ :contentReference[oaicite:0]{index=0}  
-✔ :contentReference[oaicite:1]{index=1}  
-✔ :contentReference[oaicite:2]{index=2}  
-✔ :contentReference[oaicite:3]{index=3}  
-
-Just tell me 👍
 ```
