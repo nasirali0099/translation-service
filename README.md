@@ -1,7 +1,7 @@
 
 ## 📘 About Translation Service
 
-A **Laravel 10 Translation Management API** for modern frontend apps (Vue.js, React, Mobile).
+A ** Translation Management API** for modern app.
 
 It provides:
 - Multi-language translation system
