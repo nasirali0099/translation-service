@@ -1,7 +1,7 @@
 
 ## 📘 About Translation Service
 
-A ** Translation Management API** for modern app.
+A **Translation Management API** for modern app.
 
 It provides:
 - Multi-language translation system
